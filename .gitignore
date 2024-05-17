@@ -7,3 +7,5 @@
 *_files*
 .Renviron
 
+demoApp/.DS_Store
+demoApp/R/.DS_Store
